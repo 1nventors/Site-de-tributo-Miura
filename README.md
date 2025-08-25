@@ -2,6 +2,7 @@
 
 This project is a **tribute page** dedicated to the legendary manga artist **Kentaro Miura**, creator of the iconic series *Berserk*.  
 It was built using **HTML and CSS** as part of a web development practice to create a visually appealing and informative single-page layout.
+This project is part of the **Responsive Web Design Certification** from [freeCodeCamp](https://www.freecodecamp.org/). 
 
 ---
 
